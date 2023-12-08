@@ -4,3 +4,6 @@ from kod import kod
 from start_game import start_game
 
 wellcome()
+asdasdsaddas\
+    sadasdsad
+
